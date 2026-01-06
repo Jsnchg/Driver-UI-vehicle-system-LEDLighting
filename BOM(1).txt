@@ -1,0 +1,77 @@
+Driver-UI-vehicle-system BOM
+
+A. Interior Lighting
+1. +12V
+2. NCV68261
+3. NCV8877
+4. NIS6150
+5. NSS40201L
+6. NCV7685
+7. MPQ3362GJ-AEC1 x2
+8. LED1642GWPTR x2
+9. LED x10
+10. 8080
+11. NCID9411
+12 CAT24C256
+13. GND
+
+B. Front LED Lighting
+1. +12V
+2. NCV68261
+3. NCV8877
+4. NCV8730
+5. NCP3065 x2
+6. NCV78247
+7. NCV7357
+8. EC2-3NU
+9. 8080
+10. NV25128MUW
+11. ESDONCAN1LT
+12. GND x2
+13. NCV70628
+14. NVMFWS004N04XM
+15. RotaryEncoder_Switch x1
+16. Fan x1
+
+
+C. Rear LED Lighting
+1. +12V x1
+2. NCV68261
+3. NSS40201L x2
+4. NCV7685
+5. MPQ3362GJ-AEC1 x2
+6. LED x10
+7. 8080
+8. NCV7351 
+9. NV2512BMUW
+10 GND x1
+
+Total:
+1. +12V x3
+2. NCV68261 x3
+3. NCV8877 x2
+4. NIS6150 x1
+5. NSS40201L x3
+6. NCV7685 x2
+7. MPQ3362GJ-AEC1 x4
+8. LED1642GWPTR x2
+9. LED x20
+10. 8080 x3
+11. NCID9411 x1
+12. CAT24C256 x1
+13. GND x4 x1
+14. NCV8730 x1
+15. NCP3065 x2
+16. NCV78247 x1
+17. NCV7357 x1
+18. EC2-3NU x1
+19. NV25128MUW x2
+20. ESDONCAN1LT x1
+21. NCV70628 x1
+22. NVMFWS004N04XM x1
+23. RotaryEncoder_Switch x1
+24. Fan x1
+25. NCV7351 x1
+
+*Remark: 10 LED's where added in both Interior Lighting and Rear LED Lighting. Fan, RotaryEncoder_Switch, EC2-3NU and 2 LED's were added into Front LED Lighting.
+2 MPQ3362GJ-AEC1 and 2 LED1642GWPTR. All these were added to personalize the project (All inspiration credits goes to Onsemi)
